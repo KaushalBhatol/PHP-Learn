@@ -15,7 +15,7 @@ $age = $_GET['age'];
 <body>
     <p>
     <form action="01-if_else_homeworck.php" method="get">
-        <input type="text" name="age" placeholder="Enter age Value"> <input type="submit" value="submit">
+        <input type="text" name="age" placeholder="Enter age Value" autofocus> <input type="submit" value="submit">
     </form>
     </p>
 

@@ -12,7 +12,7 @@
 </head>
 <body>
 <form action="01-if_else.php" method="get">
-    <input type="number" name="age" placeholder="age" value="<?=$age?>" required> <input type="submit" value="submit">
+    <input type="number" name="age" placeholder="age" value="<?=$age?>" required autofocus> <input type="submit" value="submit">
 </form>
 
 <h3>Our Code is</h3>

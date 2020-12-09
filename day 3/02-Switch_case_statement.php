@@ -13,7 +13,7 @@ $age = $_GET['age'];
 </head>
 <body>
     <form action="02-Switch_case_statement.php" method="get">
-        <input type="text" name="age" value="<?=$age;?>"  placeholder="$age">
+        <input type="text" name="age" value="<?=$age;?>"  placeholder="$age" autofocus>
         <input type="submit" value="Submit">
     </form>
 

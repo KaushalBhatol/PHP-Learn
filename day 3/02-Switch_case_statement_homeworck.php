@@ -23,7 +23,7 @@ $age = $_GET['age'];
 <body>
     <p>
         <form action="02-Switch_case_statement_homeworck.php" method="get">
-            <input type="number" name="age" placeholder="Enter Your age"  value="<?=$age?>"id="">
+            <input type="number" name="age" placeholder="Enter Your age"  value="<?=$age?>"id=""autofocus>
             <input type="submit" value="submit">
         </form>
 

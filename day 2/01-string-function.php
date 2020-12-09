@@ -94,7 +94,7 @@ echo '<h3>7.2 ltrim {remove left side white space}</h3>';
 echo '<pre>' . ltrim('     Kaushal Is Good Boy Really     ') . '</pre>';
 
 #7.3 trim {remove both side white space}
-echo '<h3>7.3 ltrim {remove both side white space}</h3>';
+echo '<h3>7.3 trim {remove both side white space}</h3>';
 echo '<pre>' . trim('     Kaushal Is Good Boy Really     ') . '</pre>';
 
 
